@@ -1,0 +1,10 @@
+name = "Abhinav"
+print(len(name))
+print(name.upper())
+print(name.lower())
+print(name.find("a"))
+print(name.isdigit())
+print(name.isalpha())
+print(name.count("a"))
+print(name.replace("a","r"))
+print(name*4)

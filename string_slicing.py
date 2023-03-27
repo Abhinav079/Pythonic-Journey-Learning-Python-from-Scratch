@@ -1,0 +1,11 @@
+name="abhinav"
+firstname=name[:4]
+print(firstname)
+lastname=name[3:]
+print(lastname)
+funky_name=name[::3]
+print(funky_name)
+reversed_name=name[::-1]
+website="http://google.com"
+slice=slice(7,-4)
+print(website[slice])

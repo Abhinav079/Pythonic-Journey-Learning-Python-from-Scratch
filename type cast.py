@@ -1,0 +1,8 @@
+n=int(input("Please enter your age: "))
+print("You have a entered: ",n)
+print("Your age is : "+str(n))
+h=float(input("Enter your height: "))
+print("Your height is: "+str(h))
+print("Your height in integer: ",int(h))
+d=input("Please enter your Door no:")
+print("Your door no is",int(d))
